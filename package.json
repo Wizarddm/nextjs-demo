@@ -1,0 +1,30 @@
+{
+  "name": "family",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx next",
+    "build": "npx next build",
+    "start": "npx next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-less": "^1.0.1",
+    "antd": "^3.20.5",
+    "less": "^3.9.0",
+    "next": "^9.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.3",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "babel-plugin-import": "^1.12.0",
+    "null-loader": "^3.0.0",
+    "typescript": "^3.5.3"
+  }
+}
